@@ -1,11 +1,16 @@
 _repo: Poems-translated-and-original_71302
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71302-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellet, Elizabeth (E. F.)
     gutenberg_agent_id: '56162'
     url: http://www.gutenberg.org/2009/agents/56162
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71302#Poems-translated-and-original
 gutenberg_issued: '2023-07-30'
 identifiers:
   gutenberg: '71302'
